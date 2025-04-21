@@ -1,0 +1,1 @@
+narrow 1.0341 330 8192 LRU 2 DDR3-1066-CL8 blackscholes
